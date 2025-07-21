@@ -18,7 +18,7 @@ class ResumeCrew():
 
     def __init__(self) -> None:
         """Sample resume PDF for testing from https://www.hbs.edu/doctoral/Documents/job-market/CV_Mohan.pdf"""
-        self.resume_pdf = PDFKnowledgeSource(file_paths="CV_Mohan.pdf")
+        self.resume_pdf = PDFKnowledgeSource(file_paths="Raj_Resume.pdf")
 
     @agent
     def resume_analyzer(self) -> Agent:
