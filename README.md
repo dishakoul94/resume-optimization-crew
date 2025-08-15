@@ -1,4 +1,4 @@
-# Resume Optimization with CrewAI
+# Resume Optimization with CrewAI on August 15th
 
 ![Resume Optimization System Architecture](docs/architecture-diagam.svg)
 
